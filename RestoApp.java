@@ -16,7 +16,7 @@ public class RestoApp {
         mainMenu.add(sundae);
         
         mainMenu.print();
-        System.out.println("==============================");
+        System.out.println("\n==============================");
         System.out.printf("Total Menu Value: P%.2f\n", mainMenu.getPrice());
     }
 }
